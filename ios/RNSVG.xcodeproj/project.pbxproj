@@ -498,6 +498,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SRCROOT)/../../../ios/Pods/**",
 					"$(SRCROOT)/../../React/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
@@ -537,6 +538,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SRCROOT)/../../../ios/Pods/**",
 					"$(SRCROOT)/../../React/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
